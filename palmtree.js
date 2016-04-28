@@ -1,1 +1,1 @@
-consol.log('3 shots of espresso')
+console.log('3 shots of espresso')
